@@ -55,4 +55,4 @@ python analyzer.py data.csv --export summary.txt
 
 ## Sample Data
 
-A `sample.csv` is included so you can test the tool immediately after cloning.
+A `sample.csv` is included so you can test the tool immediately after cloning
